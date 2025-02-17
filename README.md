@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahilkhose
-- 🌱 I’m currently pursuing my MSCS at Georgia Tech.
+- 🌱 I’m currently pursuing my PhD CS at Georgia Tech.
 - 💞️ I’m looking to collaborate on ML problems.
 
 <!---
